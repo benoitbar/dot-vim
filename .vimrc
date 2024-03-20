@@ -11,7 +11,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'             " Let Vundle manage Vundle
 Plugin 'vim-airline/vim-airline'          " Statusline
 Plugin 'vim-airline/vim-airline-themes'   " Statusline themes
-Plugin 'sjbach/lusty'                     " Lusty explorer
+" Plugin 'sjbach/lusty'                     " Lusty explorer
 Plugin 'mileszs/ack.vim'                  " Ack grep
 Plugin 'kien/ctrlp.vim'                   " CtrlP
 Plugin 'scrooloose/syntastic'             " Syntax checking
